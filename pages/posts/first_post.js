@@ -10,7 +10,7 @@ export default function FirstPost() {
   return (
     <Layout>
       <Head>
-        <title>Faisal blog</title>
+        <title>Test blog</title>
       </Head>
 
       <Script
@@ -24,10 +24,10 @@ export default function FirstPost() {
       <h1>First Post</h1>
 
       <Image
-        src="/images/me.png"
+        src="/images/dummy-user.png"
         width={144}
         height={144}
-        alt="Faisal Raza"
+        alt="Test test"
       />
 
       <h2>
